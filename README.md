@@ -4,6 +4,7 @@ To design the schematic and PCB layout diagram of an LED Sequencer circui circui
 ## EQUIPMENT REQUIRED:
 ●	Hardware: Personal Computer (PC)<br>
 ●	Software: Altium  <br>
+
 ## PROCEDURE:
 •  Open Altium & create a project<br>
 File → New → Project → choose PCB Project. Give it a name and folder.<br>
